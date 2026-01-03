@@ -90,25 +90,31 @@ Olá👋🏻! Me chamo Nathan Pereira, tenho 20 anos e sou apaixonado em transfo
 
 ### 🚀 Meus Projetos
 
+<br />
 <div align="center">
-  <table>
+  <table cellpadding="20" cellspacing="0" border="0">
     <tr>
-      <td align="center" width="400">
+      <td align="center" width="480" valign="top">
         <a href="https://github.com/NathanDSPereira/E-commerce-angular">
-          <img src="assets/projeto-4.png" width="350px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner E-commerce Angular"/>
-          <b>🛒 E-commerce Angular</b><br />
-          <div align="center" style="margin-top: 15px;">
+          <img src="assets/projeto-4.png" width="400px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner E-commerce Angular"/>
+        </a>
+        <br />
+        <br />
+        <p align="center" style="margin: 10px 0;">
+          <b>🛒 E-commerce Angular</b><br />              
+        </p>
+        <div align="center">
             <img 
                 alt="Angular" 
                 title="Angular"
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
             />
             <img 
                 alt="Tailwind" 
                 title="Tailwind"
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
             />
@@ -119,83 +125,94 @@ Olá👋🏻! Me chamo Nathan Pereira, tenho 20 anos e sou apaixonado em transfo
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
             />
-          </div>
-        </a>
+        </div>
       </td>
-      <td align="center" width="400">
+      <td align="center" valign="top" width="480">
         <a href="https://nathandspereira.github.io/portfolio/">
-          <img src="assets/projeto-1.png" width="350px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner Portfólio"/><br />
-          <b>🎨 Portfólio</b><br />
-          <div align="center" style="margin-top: 15px;">
+          <img src="assets/projeto-1.png" width="400px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner Portfólio"/><br />
+        </a>
+        <br />
+        <p align="center" style="margin: 10px 0;">  
+            <b>🎨 Portfólio</b><br />
+        </p>
+        <div align="center">
             <img 
                 alt="CSS" 
                 title="CSS"
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
             />
             <img 
                 alt="HTML"
                 title="HTML" 
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
             />
-          </div>
-        </a>
+        </div>
+        <br />
       </td>
     </tr>
+    <tr><td colspan="2" height="40"></td></tr>
     <tr>
-      <td align="center" width="400">
+      <td align="center" valign="top" width="480">
         <a href="https://nathandspereira.github.io/exemplares-jogos/">
-          <img src="assets/projeto-2.png" width="350px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner Exibição Jogos"/><br />
-          <b>🎮 Exibição Jogos</b><br />
-           <div align="center" style="margin-top: 15px;">
+          <img src="assets/projeto-2.png" width="400px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner Exibição Jogos"/><br />
+        </a>
+        <br />
+        <p align="center" style="margin: 10px 0;">  
+            <b>🎮 Exibição Jogos</b><br />
+        </p>
+        <div align="center">
             <img 
                 alt="JavaScript" 
                 title="JavaScript"
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
             />
             <img 
                 alt="CSS" 
                 title="CSS"
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
             />
             <img 
                 alt="HTML"
                 title="HTML" 
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
             />
-          </div>
-        </a>
+        </div>
       </td>
-      <td align="center" width="400">
+      <td align="center" valign="top" width="480">
         <a href="https://nathandspereira.github.io/pagina-inicial-site-anime/">
-          <img src="assets/projeto-3.png" width="350px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner Exibição Animes"/><br />
-          <b>🥋 Exibição Animes</b><br />
-          <div align="center" style="margin-top: 15px;">
+            <img src="assets/projeto-3.png" width="400px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner Exibição Animes"/><br />
+        </a>
+        <br />
+        <p align="center" style="margin: 10px 0;">   
+            <b>🥋 Exibição Animes</b><br />
+        </p>
+        <div align="center">
             <img 
                 alt="CSS" 
                 title="CSS"
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
             />
             <img 
                 alt="HTML"
                 title="HTML" 
-                width="20px" 
+                width="22px" 
                 style="padding-right: 10px;" 
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
             />
-          </div>
-        </a>
+        </div>
+        <br />
       </td>
     </tr>
   </table>
