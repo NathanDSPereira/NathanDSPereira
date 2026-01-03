@@ -97,7 +97,7 @@ Olá👋🏻! Me chamo Nathan Pereira, tenho 20 anos e sou apaixonado em transfo
   <table cellpadding="20" cellspacing="0" border="0">
     <tr>
       <td align="center" width="480" valign="top">
-        <a href="https://github.com/NathanDSPereira/E-commerce-angular">
+        <a href="https://nathandspereira.github.io/E-commerce-angular/#/home">
           <img src="assets/projeto-4.png" width="400px" style="border-radius:10px; padding-bottom: 2px;" alt="Banner E-commerce Angular"/>
         </a>
         <br />
